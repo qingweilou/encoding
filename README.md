@@ -1,1 +1,1 @@
-Encoding Project
+Encoding, A simple explaination

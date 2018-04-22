@@ -1,1 +1,1 @@
-Encoding, A simple explaination
+Encoding, A simple explanation
